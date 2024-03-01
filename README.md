@@ -28,8 +28,8 @@ Welcome to my GitHub profile! I'm Muhammad Irtiza , a passionate WebDeveloper/Te
 
 ## GitHub Stats 📈
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical)
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadIrtiza17&show_icons=true&theme=radical)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadIrtiza17&layout=compact&theme=radical)
 <!-- Replace [YourUsername] with your GitHub username -->
 
 ## Connect with Me 🤝
