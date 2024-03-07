@@ -1,7 +1,6 @@
-<center><h1> Hello, This is Muhammad Irtiza 👋</h1> </center>
+<center><h1> Hello, This is  👋</h1> </center>
 
-Welcome to my GitHub profile! I'm Muhammad Irtiza , a passionate WebDeveloper/Teacher based in Karachi,Pakistan. Here you'll find a collection of my projects, contributions, and explorations.
-
+Welcome to my GitHub profile! I'm  , 
 <center>
   
   ![GIF](https://media.giphy.com/media/fRgwpuil2wHww7OXjT/giphy.gif)
@@ -9,9 +8,9 @@ Welcome to my GitHub profile! I'm Muhammad Irtiza , a passionate WebDeveloper/Te
 
 ## About Me ℹ️
 
-- 🌱 I'm currently working as a frontend development and design teacher at Aptech.
+- 🌱 I'm currently working as a 
 - 💼 Teacher
-- 🎓 Bachelors in Computer Science
+- 🎓 Bachelors in 
 - 💡 I'm interested in [Your Interests / Hobbies]
 - 📫 How to reach me: [Your Contact Information]
 
